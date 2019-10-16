@@ -7,8 +7,12 @@ Here's an example [IATI XML file](http://iati.oxfam.org.uk/xml/oxfamgb-jo.xml) p
 ## Dataset Download
 ![Organization Data Folders](https://github.com/Humanitarian-AI/IATI-XML-Dataset/blob/master/Media/IATI_Org_Folders.png)
 
-IATI’s entire corpus can be downloaded via this [tool](https://github.com/andylolz/iati-data-dump) developed by the IATI community. However, the data will arrive organized/packaged into folders by publishing organization.
+IATI’s entire corpus can be downloaded via this [tool](https://github.com/andylolz/iati-data-dump) developed by the IATI community. However, the data will arrive organized/packaged into folders listed by publishing organization.
 
 ## Micro-project
 
 This group micro-project will create one single XML file containing all the information found in organization folders. Organization by organization, the goal is to append files to the end of preceding files, keeping the XML structured and valid.
+
+## Connected Micro-projects
+
+The initial master XML file will enable the group to generate JSON version and carry out other projects.
