@@ -31,4 +31,4 @@ According to IATI's [website](https://iatistandard.org/en/), IATI's entire corpu
 
 ## Connected Micro-projects
 
-The initial master XML file will enable the group to generate JSON version and carry out other projects.
+The initial master XML file will enable the group to generate a JSON version and carry out other projects.
