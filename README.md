@@ -27,6 +27,7 @@ This group micro-project will create one single XML file containing all the info
     </iati-activity>
 </iati-activities>
 ```
+According to IATI's [website](https://iatistandard.org/en/), IATI's entire corpus currently contains 1,149,491 activities published by 1,058 organizations.
 
 ## Connected Micro-projects
 
