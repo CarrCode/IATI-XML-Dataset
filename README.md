@@ -13,9 +13,19 @@ IATI’s entire corpus can be downloaded via this [tool](https://github.com/andy
 
 This group micro-project will create one single XML file containing all the information found in organization folders. Organization by organization, the goal is to append files to the end of preceding files, keeping the XML structured and valid.
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+```
+<iati-activities>
+    <iati-activity>
+    </iati-activity>
+    <iati-activity>
+    </iati-activity>
+</iati-activities>
+<iati-activities>
+    <iati-activity>
+    </iati-activity>
+    <iati-activity>
+    </iati-activity>
+</iati-activities>
 ```
 
 ## Connected Micro-projects
