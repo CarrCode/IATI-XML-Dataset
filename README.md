@@ -6,5 +6,6 @@ Organizations report activities in compliance with IATI by converting detailed i
 Here's an example [IATI XML file](http://iati.oxfam.org.uk/xml/oxfamgb-jo.xml) published by Oxfam GB. The single file contains information on twelve separate activities that the organization either has, is or is planning to carry out in Jordan.
 ## Dataset Download
 ![Organization Data Folders](https://github.com/Humanitarian-AI/IATI-XML-Dataset/blob/master/Media/IATI_Org_Folders.png)
+
 IATI’s entire corpus can be downloaded via this [tool](https://github.com/andylolz/iati-data-dump) developed by the IATI community. However, the data will arrive organized/packaged into folders by publishing organization.
 
