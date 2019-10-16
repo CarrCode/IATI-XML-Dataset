@@ -11,19 +11,19 @@ IATI’s entire corpus can be downloaded via this [tool](https://github.com/andy
 
 ## Micro-project
 
-This group micro-project will create one single XML file containing all the information found in organization folders. Organization by organization, the goal is to append files to the end of preceding files, keeping the XML structured and valid.
+This group micro-project will create one single XML file containing all the information found in organization folders. Organization by organization, the goal is to append files to the end of preceding files, keeping the XML structured and valid. See below:
 
 ```
-<iati-activities>
-    <iati-activity>
-    </iati-activity>
-    <iati-activity>
+<iati-activities>       (org A)
+    <iati-activity>     (activity one)
+    </iati-activity>    
+    <iati-activity>     (activity two)
     </iati-activity>
 </iati-activities>
-<iati-activities>
-    <iati-activity>
+<iati-activities>       (org B)
+    <iati-activity>     (activity one)
     </iati-activity>
-    <iati-activity>
+    <iati-activity>     (activity two)
     </iati-activity>
 </iati-activities>
 ```
